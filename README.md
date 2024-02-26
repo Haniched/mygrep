@@ -1,3 +1,5 @@
 # Mygrep project
-## Kääntäminen
-`g++ mygrep.cpp -o mygrep
+## Kääntäminen käsky
+```
+g++ mygrep.cpp -o mygrep
+```
